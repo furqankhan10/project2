@@ -1,4 +1,8 @@
 This is testing project.
 A quick brown fox jumps over the lazzy dog.
 Now both text on same phase.
+<<<<<<< .merge_file_a15580
 I'm changing the file here in local repo and want to push it with out pull the code first.
+=======
+Now at this time i only want to change the file here but don't want to pull it in local repo.
+>>>>>>> .merge_file_a08808
